@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Bookshelf</string>
+    <string name="about">About</string>
+    <string name="name">Su\'udi Khoirul Anam</string>
+    <string name="email">udi.khoirul@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="not_found">Not Found</string>
+    <string name="share_with">Bagikan dengan</string>
+    <string name="book_recommendation">Rekomendasi Buku</string>
+
+    <string-array name="data_title">
+        <item>The Dawn of Everything</item>
+        <item>The Smartest Kids in the World</item>
+        <item>Atomic Kotlin</item>
+        <item>Atomic Habits</item>
+        <item>Kotlin for Android Developers</item>
+        <item>Babad Tanah Jawi</item>
+        <item>Kisah-Kisah dari 5000 Tahun Sejarah China</item>
+        <item>Vibration and Waves</item>
+        <item>Mathematical Methods in the Physical Sciences</item>
+        <item>Enterprise Integration Patterns</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Penulis: David Graeber dan David Wengrow\nPenerbit: Penguin Random House\nTahun Terbit: 2021\n\nDeskripsi:\nBuku rekomendasi Co-Founder Refactory</item>
+        <item>Penulis: Amanda Ripley\nPenerbit: Gramedia Pustaka Utama\nTahun Terbit: 2021\n\nDeskripsi:\nBelum saya baca</item>
+        <item>Penulis: Bruce Eckel dan Svetlana Isakova\nPenerbit: Leanpub\nTahun Terbit: 2020\n\nDeskripsi:\nBahan pembelajaran yang direkomendasikan Kotlin</item>
+        <item>Penulis: James Clear\nPenerbit: Gramedia Pustaka Utama\nTahun Terbit: 2019\n\nDeskripsi:\nKumpulan kisah manfaat membiasakan hal-hal baik</item>
+        <item>Penulis: Antonio Leiva\nPenerbit: Leanpub\nTahun Terbit: 2018\n\nDeskripsi:\nBuku rekomendasi mentor saya</item>
+        <item>Penulis: W. L. Olthof\nPenerbit: Narasi\nTahun Terbit: 2017\n\nDeskripsi:\nSejarah tanah kelahiran yang awalnya penuh romansa kesaktian hingga kisah zaman belanda</item>
+        <item>Penulis: Lin Handa dan Cao Yuzhang\nPenerbit: Gramedia Pustaka Utama\nTahun Terbit: 2014\n\nDeskripsi:\nTaktik perang, kebijaksanaan, dan strategi membangun negeri</item>
+        <item>Penulis: George C. King\nPenerbit: Wiley\nTahun Terbit: 2009\n\nDeskripsi:\nSemua yang bergerak secara harmonik</item>
+        <item>Penulis: Mary L. Boas\nPenerbit: Wiley\nTahun Terbit: 2006\n\nDeskripsi:\nKitab suci matematika buat para mahasiswa fisika</item>
+        <item>Penulis: Gregor Hohpe dan Bobby Woolf\nPenerbit: Addison-Wesley\nTahun Terbit: 2004\n\nDeskripsi:\nBuku tentang pola-pola integrasi</item>
+    </string-array>
+
+    <integer-array name="data_cover">
+        <item>@drawable/img_dawn_graeber_2021</item>
+        <item>@drawable/img_smar_ripley_2021</item>
+        <item>@drawable/img_atom_eckel_2020</item>
+        <item>@drawable/img_habi_clear_2019</item>
+        <item>@drawable/img_kotl_leiva_2018</item>
+        <item>@drawable/img_baba_olthof_2017</item>
+        <item>@drawable/img_kisa_lin_2014</item>
+        <item>@drawable/img_vibr_king_2009</item>
+        <item>@drawable/img_math_boas_2006</item>
+        <item>@drawable/img_ente_hohpe_2004</item>
+    </integer-array>
+</resources>
